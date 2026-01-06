@@ -1,20 +1,14 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Zhejiang University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>niezt@zju.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Zhejiang University**, Master, Data Science (2024 – now)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Huazhong University of Science and Technology**, Bachelor, Mathematics and Applied Mathematics(2020 - 2024)
 
 #### Research Interests  
-XX, XX, XX, XX.
+LLM, causal inference, agent, survival analysis.
