@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![EternalRainyEve](https://img.shields.io/badge/EternalRainyEve-github-blue?logo=github)](https://github.com/EternalRainyEve)
 
 I'm currently pursuing a Master's degree in Zhejiang University.
 
