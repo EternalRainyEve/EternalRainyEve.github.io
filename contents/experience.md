@@ -1,21 +1,21 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Mahjong Soul Player**
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**December 2025 – January 2026 | Mahjong Soul**
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+Demonstrated rapid progress in competitive mahjong gameplay, with a strong preference for the Seven Pairs hand pattern. Achieved remarkable in-game milestones including a triple mangan win with a record of 12 dora indicators.
+
+#### Key Contributions:
+
+- Advanced to the **Jyoushi** (Mahjong Master) rank within 2 days of account creation, and further promoted to **Jyoushi 2** just 4 days after registration, showcasing exceptional learning agility and gameplay proficiency.
+- Specialized in the high-risk, high-reward **Seven Pairs** (Chiitoitsu) hand pattern, mastering strategic tile selection and defensive-offensive balance for this unique winning condition.
+- Secured a **Triple Mangan** (Sanbaiman) victory with an unprecedented 11 **dora** indicators, a rare and outstanding achievement in competitive mahjong matches.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **雀魂玩家**
+**2025年12月 – 2026年1月 | 雀魂**  
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 注册2天即上雀士，4天上雀士2  
+- 热爱七对 
+- 曾经有11个朵拉，达成三倍满
