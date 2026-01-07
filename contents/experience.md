@@ -16,6 +16,6 @@ Demonstrated rapid progress in competitive mahjong gameplay, with a strong prefe
 **2025年12月 – 2026年1月 | 雀魂**  
 
 #### 主要贡献:  
-- 注册2天即上雀士，4天上雀士2  
+- 注册2天即上雀士，4天上雀士2, 一周上雀士3
 - 热爱七对 
 - 曾经有11个朵拉，达成三倍满
